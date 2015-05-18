@@ -2,11 +2,13 @@ title:            Into the Deep End with Javascript
 description:      "The Code Pond"
 logo:             logo3.png
 disqus_shortname: thecodepond
+search:           true
 share:            true
+animated_fins:    true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url:        	  http://lindsaypond.com
+url:        	  http://lindsaypond.com
 
 # Owner/author information
 owner:
@@ -14,7 +16,7 @@ owner:
   avatar:         lepond.jpg
   email:          lepond@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    
   # Social networking links used in footer. Update and remove as you like.
   facebook:       lindsaypond
   github:         lepond      
