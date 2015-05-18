@@ -1,4 +1,4 @@
-title:            Into the Deep End with Javascript
+title:            Lindsay Pond's Thoughts on Javascript
 description:      "The Code Pond"
 logo:             logo3.png
 disqus_shortname: thecodepond
@@ -18,10 +18,11 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    
   # Social networking links used in footer. Update and remove as you like.
-  facebook:       lindsaypond
-  github:         lepond      
+  #facebook:       lindsaypond
+  github:         lepond   
+  linkedin:       https://www.linkedin.com/in/lindsaypond   
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/+LindsayPond
+  #google_plus:    https://plus.google.com/u/0/+LindsayPond
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-11557789-4 
