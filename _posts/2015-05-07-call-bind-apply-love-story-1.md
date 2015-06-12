@@ -12,6 +12,7 @@ tags: javascript call
 Call, Apply, and Bind are three of the most useful (but also misunderstood) built-in, Javascript methods for manipulating context. Over a three-post series, I’ll be explaining how to use each of them. 
 
 Today, we’ll explore how to use .call().
+
 ![Peanuts Graphic]({{ site.url }}/images/post_images/call_love_story.png)
 
 Function.prototype.call(thisArg, [arg1, arg2, arg3])
