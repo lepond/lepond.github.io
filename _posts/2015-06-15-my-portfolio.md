@@ -9,6 +9,8 @@ imagefeature: lp3.png
 ---
 
 
+In addition to the samples of my work below, please check out my [Github](https://github.com/lepond), [Linkedin](https://www.linkedin.com/in/lindsaypond), and [Resume](http://www.slideshare.net/LindsayPond/lindsay-ponds-resume-49360333).
+
 ##PrivateTable
 
 _An AirBnB-style marketplace for discovering and booking event spaces_
