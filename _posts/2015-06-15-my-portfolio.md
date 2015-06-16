@@ -5,6 +5,7 @@ title: My Portfolio
 mathjax: false
 featured: false
 comments: false
+imagefeature: lp3.png
 ---
 
 ##PrivateTable
