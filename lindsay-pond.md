@@ -5,7 +5,7 @@ title: Lindsay Pond
 tags: [Lindsay, Pond, lepond]
 ---
 
-![cover-image](/images/lp3.jpg)
+<img src="/images/lepond.jpg">
 
 My name is **Lindsay Pond**, and this is my personal blog.  
 
