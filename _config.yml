@@ -39,10 +39,11 @@ links:
     icon: home
   - title: Featured Posts
     url: /featured
-  - title: Categories
-    url: /categories
   - title: About
     url: /lindsay-pond
+  - title: <i class="icon-github"> </i>Github
+    url: https://github.com/lepond
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles

@@ -3,11 +3,9 @@ layout: page
 permalink: /lindsay-pond/index.html
 title: Lindsay Pond
 tags: [Lindsay, Pond, lepond]
-image:
-  feature: lp3.png
-  thumb: lepond.png
 ---
 
+![cover-image](/images/lp3.jpg)
 
 My name is **Lindsay Pond**, and this is my personal blog.  
 
