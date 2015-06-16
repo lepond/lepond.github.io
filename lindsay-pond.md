@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /lindsay-pond/index.html
-feature: lp3.jpg
 title: Lindsay Pond
 tags: [Lindsay, Pond, lepond]
 image:
-  feature: lepond.jpg
+  feature: lp3.png
+  thumb: lepond.png
 ---
-
-  <img src="{{ site.url }}/images/lepond.jpg" alt="Lindsay Pond">
 
 
 My name is **Lindsay Pond**, and this is my personal blog.  
