@@ -33,6 +33,7 @@ Visit the organization's repo for this project on [Github](https://github.com/Bl
 -----
 ##Zombies vs. Vampires Bus Battle
 _A mobile game that uses real-time transit data and geo-location to infect SF Muni buses with zombies and vampires_
+
 ![Z vs V screenshot](https://github.com/lepond/Blood-and-Breakfast/raw/master/readme_assets/zvsvgame.png)
 _See a live demo on our [Meteor deployment](http://zvsv.meteor.com/)._
 ###Accomplishments
