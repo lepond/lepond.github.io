@@ -12,6 +12,7 @@ imagefeature: lp3.png
 ##PrivateTable
 
 _An AirBnB-style marketplace for discovering and booking event spaces_
+
 ![Private Table Home Page](https://github.com/Bedroom-and-Fruit/Private-Table/raw/master/repo_assets/pthomepage.png)
 _Visit the organization's repo for this project on [Github](https://github.com/Bedroom-and-Fruit/Private-Table) or demo the product at [PrivateTable.io](http://www.privatetable.io)._
 ###Accomplishments:
