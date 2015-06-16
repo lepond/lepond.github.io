@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /lindsay-pond/index.html
+feature: lp3.jpg
 title: Lindsay Pond
 tags: [Lindsay, Pond, lepond]
 image:
