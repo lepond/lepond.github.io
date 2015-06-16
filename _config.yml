@@ -33,17 +33,21 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
+  - title: <i class="fa fa-linkedin"></i>
+    url: https://linkedin.com/in/lindsaypond
+    external: true
+  - title: <i class="fa fa-github"></i>
+    url: https://github.com/lepond
+    external: true
   - title: Home
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
+  - title: Portfolio
+    url: /my-portfolio
   - title: About
     url: /lindsay-pond
-  - title: <i class="icon-github"> </i>Github
-    url: https://github.com/lepond
-    external: true
+  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
